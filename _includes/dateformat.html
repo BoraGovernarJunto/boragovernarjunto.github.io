@@ -1,0 +1,17 @@
+{%- assign m = a_date | date: "%m" -%}
+{{ a_date | date: "%e" }} de&nbsp;
+{%- case m -%}
+{%- when '01' -%} Janeiro
+{%- when '02' -%} Fevereiro
+{%- when '03' -%} Março
+{%- when '04' -%} Abril
+{%- when '05' -%} Maio
+{%- when '06' -%} Junho
+{%- when '07' -%} Julho
+{%- when '08' -%} Agosto
+{%- when '09' -%} Setembro
+{%- when '10' -%} Outubro
+{%- when '11' -%} Novembro
+{%- when '12' -%} Dezembro
+{%- endcase -%}
+&nbsp;de {{ a_date | date: "%Y" }}
