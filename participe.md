@@ -8,7 +8,7 @@ permalink: /participe
 
 # Associações e coletivos
 
-Se você já está organizado(a) em alguma associação e coletivo, inscreva-se nesse formulário para compor com a gente este movimento! Veja mais nesta [carta de apresentação](https://docs.google.com/document/d/1CKko9r74DLF-y3v47VHb_pZ6Vl-DetOhcHPvnuGJXGs/edit?usp=sharing).
+Se você já está organizado(a) em alguma associação e coletivo, [inscreva-se nesse formulário](https://forms.gle/kXuMZuEJ8KutK9BL9) para compor com a gente este movimento! Veja mais nesta [carta de apresentação](https://docs.google.com/document/d/1CKko9r74DLF-y3v47VHb_pZ6Vl-DetOhcHPvnuGJXGs/edit?usp=sharing).
 
 Participem a gente da construção desse movimento! Traga suas constribuições para a Carta Compromisso, assine junto a apresentação da carta para os candidatos, traga para o debate as demandas dos seus associados!
 

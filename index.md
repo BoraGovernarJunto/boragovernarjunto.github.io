@@ -6,4 +6,7 @@ layout: home
 list_title: Publicações
 ---
 
-**Bora Governar Junto** é um movimento popular que luta pela participação popular na gestão do município de Palmeiras (BA)
+**Bora Governar Junto** é um movimento popular que luta pela participação popular na gestão do município de Palmeiras (BA).
+
+- [Saiba mais](/movimento)
+- [Participe!](/participe)
